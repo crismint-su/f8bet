@@ -1,0 +1,11 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 25 Jul 2026 16:33:07 at https://www.balajitourandtravel.in/vi-vn/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.balajitourandtravel.in/vi-vn/ -O1 "C:\webhtml\f8bet" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 seconds : 47 links scanned, 46 files written (2738009 bytes overall) [2262200 bytes received at 161585 bytes/sec], 2732092 bytes transferred using HTTP compression in 42 files, ratio 81%, 15.6 requests per connection
+(No errors, 0 warnings, 0 messages)
